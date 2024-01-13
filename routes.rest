@@ -1,0 +1,25 @@
+### Get from localhost all contacts
+GET http://localhost:3000/contacts
+
+### Get from localhost contact 1
+GET http://localhost:3000/contacts/65a2ca937f24d2f940dcf09e
+
+### Get from localhost contact 2
+GET http://localhost:3000/contacts/65a2cbce7f24d2f940dcf09f
+
+### Get from localhost contact 3
+GET http://localhost:3000/contacts/65a2cc1c7f24d2f940dcf0a0
+
+
+### Get from render all contacts
+GET https://project1-i8qr.onrender.com/contacts
+
+### Get from render contact 1
+GET https://project1-i8qr.onrender.com/contacts/65a2ca937f24d2f940dcf09e
+
+### Get from render contact 2
+GET https://project1-i8qr.onrender.com/contacts/65a2cbce7f24d2f940dcf09f
+
+### Get from render contact 3
+GET https://project1-i8qr.onrender.com/contacts/65a2cc1c7f24d2f940dcf0a0
+
